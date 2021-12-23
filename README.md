@@ -15,7 +15,7 @@
 - 📫 How to reach me **sathiyanarayanan188@gmail.com**
 
 <h3 align="left">Connect with me: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h3>
-<p align="left"><a href="www.linkedin.com/in/sathiya-narayanan-08386b148">
+<p align="left"><a href="https://linkedin.com/in/sathiya-narayanan-08386b148">
     <img align="left" alt="Sathiya Narayanan | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="https://twitter.com/Sathiya_101">
