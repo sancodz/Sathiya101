@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Sathiya Narayanan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> </h1>
 <img align="right" alt="Designer GIF" src="https://github.com/SathiyaN3/SathiyaN3/blob/main/89964-designer.gif" width="300" />
-<h3 align="left">A passionate software engineer and an Open-source enthusiast from India</h3>
+<h3 align="left">A passionate software engineer and an open-source enthusiast from India</h3>
 
 - 🌱 I’m currently learning **Web Development.**
 
