@@ -6,7 +6,7 @@
 
 - 🤝 I'm looking to collaborate with **Open-source projects**
 
-- ☕ is the secret of my **energy.**
+- ☕ is the secret of my **Energy.**
 
 - 🔜 Goals: To become a full-time **Software Engineer.**
 
