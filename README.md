@@ -2,7 +2,7 @@
 <img align="right" alt="Baby Astronaut GIF" src="https://github.com/Sathiya101/Sathiya101/blob/main/Assets/89033-star-in-hand-baby-astronaut.gif" width="300" />
 <h3 align="left">A passionate software engineer and an open-source enthusiast from India</h3>
 
-- 🌱 I’m currently learning **Web Development.**
+- 🌱 I’m currently learning **Python Development.**
 
 - 🤝 I'm looking to collaborate with **Open-source projects**
 
