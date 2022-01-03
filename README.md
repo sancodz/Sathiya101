@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">, I'm Sathiya Narayanan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="25px"> </h1>
-<img align="right" alt="Baby Astronaut GIF" src="https://github.com/Sathiya101/Sathiya101/blob/main/Assets/88282-rocket.gif" width="300" />
+<img align="right" alt="Baby Astronaut GIF" src="https://github.com/Sathiya101/Sathiya101/blob/main/Assets/78504-greetings.gif" width="300" />
 <h3 align="left">A passionate software engineer and an open-source enthusiast from India</h3>
 
 - 🌱 I’m currently learning **Python Development.**
