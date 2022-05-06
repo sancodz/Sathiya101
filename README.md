@@ -2,7 +2,7 @@
 <img align="right" alt="Baby Astronaut GIF" src="https://github.com/Sathiya101/Sathiya101/blob/main/Assets/code.gif" width="300" />
 <h3 align="left">A passionate engineer and an open-source enthusiast from India</h3>
 
-- 🌱 I’m currently learning **Python Development.**
+- 🌱 I’m currently learning **Web Development.**
 
 - 🤝 I'm looking to collaborate with **Open-source projects**
 
@@ -10,7 +10,7 @@
 
 - 🔜 Goals: To become a full-time **Software Engineer.**
 
-- ⚡ Fun Fact: I love **Reading** and **Roadtrips.**
+- ⚡ Fun Fact: I love **Reading** and **Running.**
 
 - 📫 How to reach me **sathiyanarayanan188@gmail.com**
 
