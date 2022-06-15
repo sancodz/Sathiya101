@@ -1,4 +1,4 @@
-<h2 align="center">Hi! <img src="https://github.com/Sathiya101/Sathiya101/blob/main/Assets/Hi.gif" width="24px"> I'm Sathiya Narayanan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="24px"> </h1>
+<h2 align="center">Hi! I'm Sathiya Narayanan</h1>
 <img align="right" alt="Baby Astronaut GIF" src="https://github.com/Sathiya101/Sathiya101/blob/main/Assets/code.gif" width="300" />
 <h3 align="left">A passionate engineer and an open-source enthusiast from India</h3>
 
