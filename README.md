@@ -1,5 +1,5 @@
 # Hi! I'm Sathiya Narayanan&nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-<img align="right" alt="Baby Astronaut GIF" src="https://github.com/Sathiya101/Sathiya101/blob/main/Assets/code.gif" width="390"/>
+<img align="right" alt="Baby Astronaut GIF" src="https://github.com/Sathiya101/Sathiya101/blob/main/Assets/code.gif" width="340"/>
 <p>
     <em>
         A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="24px"> from Tamil Nadu, who is <b>obsessed</b> with the idea of <b>improving</b> himself and making the  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px">  a better place.
@@ -16,19 +16,23 @@
 
 - ⚡ Fun Fact: I love **Reading** and watching **Sci-Fi Movies.**
 
-- 📫 How to reach me **sathiyanarayanan188@gmail.com**
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sathiya101)](https://github.com/anuraghazra/github-readme-stats)
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sathiya101&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathiya101&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sathiya101)](https://github.com/anuraghazra/github-readme-stats)
 
-# Connect with me: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-<p align="left"><a href="https://linkedin.com/in/sathiya-narayanan-08386b148">
-    <img align="left" alt="Sathiya Narayanan | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-  <a href="https://twitter.com/Sathiya_101">
-    <img align="left" alt="Sathiya Narayanan | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a>
+<h2  align="center">📫 Reach me on</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/sathiya-narayanan-08386b148/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/Sathiya_101"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sathiyanarayanan188@gmail.com?subject=Hello%20Sathiya,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
-<h1>Languages and Tools:</h1>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<h2  align="center">👨‍💻 My Tech Stack</h2>
+<p align="center">
+  <a target="_blank"href="https://html.com/"><img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="#"><img src="https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="#"><img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="#"><img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="#"><img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
