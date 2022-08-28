@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web Development.**
 
-- 🤝 I'm learning how to collaborate with **Open-source projects**
+- 🤝 I'm learning how to build **Full-Stack apps**
 
 - ☕ is the secret of my **Energy.**
 
