@@ -20,6 +20,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sathiya101)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 # Connect with me: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 <p align="left"><a href="https://linkedin.com/in/sathiya-narayanan-08386b148">
     <img align="left" alt="Sathiya Narayanan | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
