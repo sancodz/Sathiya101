@@ -1,8 +1,8 @@
 # Hi! I'm Sathiya Narayanan&nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-<img align="right" alt="Baby Astronaut GIF" src="https://github.com/Sathiya101/Sathiya101/blob/main/Assets/code.gif" width="300" />
+<img align="right" alt="Baby Astronaut GIF" src="https://github.com/Sathiya101/Sathiya101/blob/main/Assets/code.gif" width="390"/>
 <p>
     <em>
-        A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> who is <b>obsessed</b> with the idea of <b>improving</b> himself and making the <b>world</b> a better place.
+        A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="24px"> from Tamil Nadu, who is <b>obsessed</b> with the idea of <b>improving</b> himself and making the  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px">  a better place.
     </em>
 </p>
 
@@ -18,9 +18,8 @@
 
 - 📫 How to reach me **sathiyanarayanan188@gmail.com**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sathiya101)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sathiya101&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathiya101&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 # Connect with me: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 <p align="left"><a href="https://linkedin.com/in/sathiya-narayanan-08386b148">
