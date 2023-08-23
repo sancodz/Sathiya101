@@ -6,7 +6,7 @@
     </em>
 </p>
 
-- 🌱 I’m currently learning **Java Development.**
+- 🌱 I’m currently learning **Java.**
 
 - 🤝 I'm learning how to build **Full-Stack apps.**
 
