@@ -6,15 +6,9 @@
     </em>
 </p>
 
-- 🌱 I’m currently learning **Java.**
+- 🌱 I’m currently learning **Java Full stack development.**
 
-- 🤝 I'm learning how to build **Full-Stack apps.**
-
-- ☕ is the secret of my **Energy.**
-
-- 🔜 Goals: To become a **Software Developer.**
-
-- ⚡ Fun Fact: I love **Reading** and watching **Sci-Fi Movies.**
+- ⚡ Fun Fact: I love **Reading** and playing **Badminton.**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sathiya101)](https://github.com/anuraghazra/github-readme-stats)
 
