@@ -2,7 +2,7 @@
 <img align="right" alt="Baby Astronaut GIF" src="https://github.com/Sathiya101/Sathiya101/blob/main/Assets/code.gif" width="340"/>
 <p>
     <em>
-        A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="24px"> from Tamil Nadu, who is <b>obsessed</b> with the idea of <b>improving</b> himself.
+        A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="24px"> from India, who is <b>obsessed</b> with the idea of <b>improving</b> himself.
     </em>
 </p>
 
