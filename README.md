@@ -10,8 +10,6 @@
 
 - ⚡ Fun Fact: I love **Reading** and playing **Badminton.**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sathiya101)](https://github.com/anuraghazra/github-readme-stats)
-
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/sathiya-narayanan-08386b148/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
